@@ -81,3 +81,8 @@ msgstr "Name"
 #: .\templates\movies\movie_detail.html:160
 msgid "Отправить"
 msgstr "Send"
+
+#: .\templates\include\header.html:18
+#: .\templates\include\header.html:20
+msgid "Категории"
+msgstr "Category"
